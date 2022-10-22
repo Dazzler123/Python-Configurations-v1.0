@@ -1,6 +1,19 @@
+# import tkinter as tk
+# from tkinter import filedialog, Text
+# import os
+#
+# root = tk.Tk()
+#
+# canvas = tk.Canvas(root, height=700, width=700, bg="#263D42")
+# canvas.pack()
+#
+# root.mainloop()
+
+# ///////////////////////////////////////////////////////////////////////////
+
 # print("Dasindu Bimlaka Hewagamage")
 # print("0----")
-print(" ||||")
+# print(" ||||")
 # print("*" * 10)
 # print(10/2)
 # name = "hi"
@@ -54,5 +67,5 @@ print(" ||||")
 # month = input("Enter month : ")
 # day = input("Enter day : ")
 # print("Processing........")
-# print(day+"/"+month+"/"+year)
+# print("Your DOB is : " + day + "/" + month + "/" + year)
 # print("======================================================================")
